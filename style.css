@@ -117,7 +117,6 @@ body {
 .button {
   align-self: flex-end;
   margin-bottom: 50px;
-  margin-left: 30px;
   background-color: rgba(255, 255, 255, 0.5);
   padding: 10px;
   border-style: outset;
